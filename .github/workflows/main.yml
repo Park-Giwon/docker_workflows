@@ -1,4 +1,4 @@
-name: my-front
+name: to-mac
 on:
   push:
     branches:
